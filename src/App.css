@@ -1,0 +1,13 @@
+body {
+  background-color: #202023;
+}
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.threeContainer {
+  width: 800px;
+  height: 800px;
+}
